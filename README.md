@@ -1,6 +1,12 @@
 <h1 align="left">Hi 👋! My name is Sourav Ghosh</h1>
 
 ###
+
+
+
+![06f21a161921919 63cd7887d0a70](https://github.com/user-attachments/assets/d6eafcf9-e86b-403d-b4d6-5af30d69c99a)
+
+
 # 💫 About Me:
 🔭 Btech CSE Final Year<br>👯 Experienced Wordpress Developer<br>🤝 Elementor Expert<br>💹 Familiar with Digital Marketing Strategies<br>🌱 My Projects are Available at [My Portfolio](https://portfolio.souravdigital.in)<br>
 
