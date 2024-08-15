@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🔭 Btech CSE Final Year<br>👯 Experienced Wordpress Developer<br>🤝 Elementor Expert<br>💹 Familiar with Digital Marketing Strategies<br>🌱 My Projects are Available at [My Portfolio](https://portfolio.souravdigital.in)<br>
+🔭 Btech CSE Final Year<br>👯 Experienced Wordpress Developer<br>🤝 Elementor Expert<br>✨ Ecommerce Developer<br>💹 Familiar with Digital Marketing Strategies<br>🌱 My Projects are Available at [My Portfolio](https://portfolio.souravdigital.in)<br>
 
 
 ## 🌐 Socials:
